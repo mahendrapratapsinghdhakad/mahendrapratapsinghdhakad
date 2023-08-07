@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Mahendra Dhakad</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-<img align="right" alt="coding" width="300" hight="80" src="https://vijaymishra964.com/wp-content/uploads/2019/11/web-design.gif">
+<img align="right" alt="coding" width="1100" hight="80" src="https://vijaymishra964.com/wp-content/uploads/2019/11/web-design.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahendrapratapsinghdhakad&label=Profile%20views&color=0e75b6&style=flat" alt="mahendrapratapsinghdhakad" /> </p>
 
